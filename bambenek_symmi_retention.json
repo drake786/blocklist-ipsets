@@ -1,0 +1,26 @@
+{
+	"ipset": "bambenek_symmi",
+	"started": 1438283356000,
+	"updated": 1528326620000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			4,
+			207,
+			220,
+			338 ],
+		"ips": [ 
+			1,
+			1,
+			1,
+			1 ],
+		"total": 4
+	},
+	"current": {
+		"hours": [ 
+			155 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}

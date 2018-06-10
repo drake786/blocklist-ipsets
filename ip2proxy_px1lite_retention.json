@@ -1,0 +1,24 @@
+{
+	"ipset": "ip2proxy_px1lite",
+	"started": 1524093895000,
+	"updated": 1528279714000,
+	"incomplete": 1,
+	"past": {
+		"hours": [ 
+			751 ],
+		"ips": [ 
+			1932 ],
+		"total": 1932
+	},
+	"current": {
+		"hours": [ 
+			121,
+			872,
+			1163 ],
+		"ips": [ 
+			56346,
+			155221,
+			14101 ],
+		"total": 225668
+	}
+}

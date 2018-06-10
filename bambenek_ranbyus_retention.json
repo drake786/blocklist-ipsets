@@ -1,0 +1,30 @@
+{
+	"ipset": "bambenek_ranbyus",
+	"started": 1528330086000,
+	"updated": 1528963682000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			4,
+			5,
+			7,
+			9,
+			11,
+			21 ],
+		"ips": [ 
+			10,
+			2,
+			2,
+			1,
+			1,
+			1 ],
+		"total": 17
+	},
+	"current": {
+		"hours": [ 
+			0 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}

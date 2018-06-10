@@ -1,0 +1,22 @@
+{
+	"ipset": "bambenek_p2pgoz",
+	"started": 1438282839000,
+	"updated": 1528902050000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			18,
+			61 ],
+		"ips": [ 
+			1,
+			1 ],
+		"total": 2
+	},
+	"current": {
+		"hours": [ 
+			0 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}

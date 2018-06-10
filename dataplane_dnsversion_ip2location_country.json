@@ -1,0 +1,50 @@
+[
+	{
+		"code": "AU",
+		"value": 28
+	},
+	{
+		"code": "CN",
+		"value": 21
+	},
+	{
+		"code": "DE",
+		"value": 8
+	},
+	{
+		"code": "GB",
+		"value": 8
+	},
+	{
+		"code": "HK",
+		"value": 1
+	},
+	{
+		"code": "JP",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 4
+	},
+	{
+		"code": "RO",
+		"value": 8
+	},
+	{
+		"code": "SC",
+		"value": 6
+	},
+	{
+		"code": "SG",
+		"value": 2
+	},
+	{
+		"code": "US",
+		"value": 104
+	},
+	{
+		"code": "VN",
+		"value": 2
+	}
+]
